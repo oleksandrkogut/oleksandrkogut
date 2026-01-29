@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://badges.strrl.dev/years/oleksandrkogut?style=flat-square&color=6E57F7&label=Years%20on%20GitHub" alt="Years on GitHub"/>
-  <img src="https://img.shields.io/badge/🇺🇦-Ukraine-6E57F7?style=flat-square" alt="Ukraine"/>
+  <img src="https://img.shields.io/badge/-Ukraine-6E57F7?style=flat-square&labelColor=gray&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA0MCI+PHBhdGggZmlsbD0iIzAwNTdCOCIgZD0iTTAgMGg2NHYyMEgweiIvPjxwYXRoIGZpbGw9IiNGRkQ3MDAiIGQ9Ik0wIDIwaDY0djIwSDB6Ii8+PC9zdmc+" alt="Ukraine"/>
 </p>
 
 ---
