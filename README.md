@@ -90,9 +90,3 @@ Backend engineer with **9+ years of PHP** experience, specializing in **Symfony*
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oleksandrkogut&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats"/>
-</p>
